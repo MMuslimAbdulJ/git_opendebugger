@@ -1,0 +1,34 @@
+Isi makalah
+1. Cover
+Cover atau sampul dalam cara membuat makalah berisi judul, nama penulis, logo lembaga/institusi, tempat, dan tahun terbit. 
+Untuk bagian ini, sebaiknya penulisan menggunakan aturan rata tengah (center) agar cover terlihat lebih rapi dan bagus.
+
+2. Kata Pengantar
+Kata pengantar berisi sedikit pembahasan isi makalah secara menyeluruh, namun tidak spesifik dan detail. 
+Selain itu, pada bagian ini juga berisi penjelasan waktu penulisan makalah, tempat penelitian, serta pihak-pihak yang ikut mengarahkan cara membuat makalah. 
+
+3. Daftar Isi
+Daftar isi merupakan sebuah halaman yang memuat sebuah informasi halaman dari sebuah konten dalam makalah.
+
+4.Pendahuluan
+Pendahuluan adalah pembahasan dari awal topik penelitian dalam makalah yang disusun dari sudut pandang penulis. 
+Bagian ini biasanya terdiri dari tiga subbab yaitu latar belakang, rumusan masalah, dan tujuan.
+
+5. Latar Belakang
+Pada bagian ini dijelaskan permasalahan yang ditemukan dan alasan mengapa masalah tersebut penting untuk diteliti serta dianalisis dalam makalah.
+
+6. Rumusan Masalah
+Rumusan masalah adalah hasil dari bahasan pada latar belakang yang telah diulas sebelumnya. 
+Bagian ini biasanya singkat, padat, serta berisi poin-poin pertanyaan atau masalah yang diteliti.
+
+7. Tujuan Pembahasan
+Tujuan pembahasan berisi manfaat penelitian yang akan dilakukan setelah ditemukan hasil atau kesimpulan permasalahan dan konfirmasi dari hipotesa awal. 
+Bagian ini biasanya ditulis secara singkat, namun menggambarkan manfaat penelitian kepada pembaca.
+
+8. Isi/Pembahasan
+Isi menjelaskan tentang permasalahan, penelitian yang dilakukan, metode penelitian, tempat penelitian, sasaran penelitian, serta penjabaran hasil data-data yang diperoleh di lapangan.
+Data yang diperoleh bisa berupa data kualitatif, data kuantitatif, maupun metode campuran sebagai rangkaian cara membuat makalah.
+
+9. Kesimpulan
+Kesimpulan dalam cara membuat makalah, merupakan penjabaran dari hasil penelitian yang didapatkan. 
+Pada bagian ini terdapat penjelasan tentang apakah penelitian yang dilakukan telah menjawab rumusan masalah atau masih diperlukan penelitian lanjutan.
