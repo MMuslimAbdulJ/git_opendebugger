@@ -1,4 +1,4 @@
 Assalamualaikum Wr. Wb.
 Ini adalah kata pengatar dummy hanya sebatas
-untuk latihan saja
+untuk latihan git di command line
 Wassalamualailum Wr. Wb.
