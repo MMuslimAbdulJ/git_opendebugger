@@ -1,1 +1,1 @@
-Repo untuk latihan git
+Repo untuk latihan Git dan GitHub
