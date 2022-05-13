@@ -1,1 +1,1 @@
-Repo untuk latihan Git dan GitHub
+Repo untuk latihan Git dan GitHub untuk anggota grup OpenDebugger
